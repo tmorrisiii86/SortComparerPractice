@@ -1,0 +1,11 @@
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\obj\Debug\netcoreapp3.1\SortComparePractice.csprojAssemblyReference.cache
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\obj\Debug\netcoreapp3.1\SortComparePractice.AssemblyInfoInputs.cache
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\obj\Debug\netcoreapp3.1\SortComparePractice.AssemblyInfo.cs
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\bin\Debug\netcoreapp3.1\SortComparePractice.exe
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\bin\Debug\netcoreapp3.1\SortComparePractice.deps.json
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\bin\Debug\netcoreapp3.1\SortComparePractice.runtimeconfig.json
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\bin\Debug\netcoreapp3.1\SortComparePractice.runtimeconfig.dev.json
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\bin\Debug\netcoreapp3.1\SortComparePractice.dll
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\bin\Debug\netcoreapp3.1\SortComparePractice.pdb
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\obj\Debug\netcoreapp3.1\SortComparePractice.dll
+C:\Users\tmorr\source\repos\SortComparePractice\SortComparePractice\obj\Debug\netcoreapp3.1\SortComparePractice.pdb
